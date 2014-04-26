@@ -32,6 +32,7 @@
                                 'show_option_none' => __('Select question category','dwqa'),
                                 'hide_empty'    => 0,
                                 'quicktags'     => array( 'buttons' => 'strong,em,link,block,del,ins,img,ul,ol,li,code,spell,close' ),
+	                            'selected'           => 0
                             ) );
                         ?>
                     </div>   
